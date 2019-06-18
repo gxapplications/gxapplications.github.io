@@ -33,9 +33,15 @@
 
     <section>
         <div id="title">
-            <img src="{{ '/assets/images/avatar-logo.png' | relative_url }}" style="width: 10rem; height: auto; float: left; margin-right: 1rem;" />
-            <h1 style="padding-top: 2.8rem; text-align: left;">{{ page.name | replace '.md', '' | replace '.html', '' | replace 'README', page.dir | default: site.title }}</h1>
-            <p style="text-align: left; margin-bottom: 14px; font-size: 17.5px;">{{ site.description | default: site.github.project_tagline }}</p>
+            {% if page.path == 'README.md' %}
+                <img src="{{ '/assets/images/avatar-logo.png' | relative_url }}" style="width: 10rem; height: auto; float: left; margin-right: 1rem;" />
+                <h1 style="padding-top: 2.8rem; text-align: left;">{{ site.title }}</h1>
+                <p style="text-align: left; margin-bottom: 14px; font-size: 17.5px;">{{ site.description | default: site.github.project_tagline }}</p>
+            {% else %}
+                <img src="{{ '/assets/images/avatar-logo.png' | relative_url }}" style="width: 10rem; height: auto; float: left; margin-right: 1rem;" />
+                <h1 style="padding-top: 2.8rem; text-align: left;">{{ page.path | default: site.title }}</h1>
+                <p style="text-align: left; margin-bottom: 14px; font-size: 17.5px;">{{ site.title | default: site.description }}</p>
+            {% endif %}
             <hr>
         </div>
 

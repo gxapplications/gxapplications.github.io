@@ -24,10 +24,10 @@
 
 ---
 
-# Curriculum Vitae
-[![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png) Xavier GOULEY](https://gxapplications.github.io/cv.html)
+[![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png)](https://gxapplications.github.io/cv.html)
+## [Curriculum Vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
 
 
 ```
-(c) 2017-2019 GXApplications.
+{{ site.time | date: '%Y-%m-%d' }} ~ (c) 2017-2019 GXApplications.
 ```
