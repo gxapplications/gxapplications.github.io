@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b167d3-0688-4529-a0df-bb448162fea7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,25 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <first_editor relative-caret-position="600">
+                <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,20 +32,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -71,9 +51,9 @@
       <list>
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/cv.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/assets/css/style.scss" />
       </list>
     </option>
   </component>
@@ -94,16 +74,6 @@
             <path>
               <item name="gxapplications.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gxapplications.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gxapplications.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gxapplications.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gxapplications.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gxapplications.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,12 +123,12 @@
       <updated>1560507137067</updated>
       <workItem from="1560507138229" duration="10576000" />
       <workItem from="1560842710596" duration="1888000" />
-      <workItem from="1560854280607" duration="2588000" />
+      <workItem from="1560854280607" duration="6330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15052000" />
+    <option name="totallyTimeSpent" value="18794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
@@ -206,11 +176,18 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="34" selection-start-column="34" selection-end-column="34" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -218,7 +195,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
+        <state relative-caret-position="705">
           <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -230,17 +207,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <first_editor relative-caret-position="600">
+            <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>

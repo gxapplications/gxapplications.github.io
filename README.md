@@ -17,6 +17,8 @@
 > ### [IP-Cam](https://github.com/gxapplications/asterism-plugin-ipcam)
 > Plugin for screening & piloting IP cameras
 
+Coming soon (or later): EDF téléinformation plugin? IFTTT plugin? Google Assistant plugin?
+
 ---
 
 > [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/asterism-text.png)](https://github.com/gxapplications/asterism)
@@ -28,8 +30,8 @@
 # Other
 
 > [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png)](https://gxapplications.github.io/cv.html)
-> ### [Curriculum vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
-> Web software engineering, NodeJS lead developer & junior architect.<br>
+> ## [Curriculum vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
+> Web software engineering, NodeJS lead developer & junior architect. <br>
 > Paris area, France
 
 
