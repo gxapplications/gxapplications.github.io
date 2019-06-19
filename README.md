@@ -1,8 +1,9 @@
-# Software
+# Softwares
 
-[![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/asterism-text.png)](https://gxapplications.github.io/asterism-for-domotics/)
+> [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/asterism-text.png)](https://gxapplications.github.io/asterism-for-domotics/)
 > ## [asterism for Domotics](https://gxapplications.github.io/asterism-for-domotics/)
-> Domotics oriented standalone software. Made in NodeJS & Material interface. NOT cloud based. Built for PM2.
+> Domotics oriented standalone software. <br>
+> Made in NodeJS & Material interface. NOT cloud based. Built for PM2.
 
 ---
 
@@ -18,16 +19,20 @@
 
 ---
 
-[![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/asterism-text.png)](https://github.com/gxapplications/asterism)
+> [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/asterism-text.png)](https://github.com/gxapplications/asterism)
 > ## [asterism (for developers)](https://github.com/gxapplications/asterism)
 > Extensible & dynamic dashboard platform. Made in NodeJS, React and Materialize CSS.
 
 ---
 
-[![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png)](https://gxapplications.github.io/cv.html)
-## [Curriculum Vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
+# Other
+
+> [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png)](https://gxapplications.github.io/cv.html)
+> ### [Curriculum vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
+> Web software engineering, NodeJS lead developer & junior architect.<br>
+> Paris area, France
 
 
 ```
-{{ site.time | date: '%Y-%m-%d' }} ~ (c) 2017-2019 GXApplications.
+Last update: {{ site.time | date: '%Y-%m-%d' }} ~ (c) 2017-2019 GXApplications.
 ```
