@@ -16,27 +16,30 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 ---
 ## Degrees
 
-> IT Engineer degree, computer science (Telecom Nancy) - 2002-2005 <br>
+- IT Engineer degree, computer science (Telecom Nancy) - 2002-2005 <br>
 
-> Preparatory classes for schools (Maths Sup & Spé PTSI) - 2000-2002 <br>
+- Preparatory classes for schools (Maths Sup & Spé PTSI) - 2000-2002 <br>
 
-> Scientific secondary school diploma (French Bac S) - 2000 <br>
+- Scientific secondary school diploma (French Bac S) - 2000 <br>
 
 [More details here](https://gxapplications.github.io/cv-degrees.html)
 
 ---
 ## Career
 
-- Startup PrestaShop - 2014-now <br>
-> as **Senior software developer and web architect (4yrs)** (NodeJS, Web fullstack, backend, Cloud computing services) <br>
+- **Senior software developer and web architect (4yrs)** <br>
+> at PrestaShop (Startup) - 2014-now <br>
+(NodeJS, Web fullstack, backend, Cloud computing services) <br>
 [More details here](https://gxapplications.github.io/cv-career.html#prestashop).
 
-- IT Services company Logica / CGI - 2008-2014 <br>
-> as **Experimented software engineer (7yrs)** (Web fullstack, PHP, Android) <br>
+- **Experimented software engineer (7yrs)** <br>
+> at Logica / CGI (IT Services company) - 2008-2014 <br>
+(Web fullstack, PHP, Android) <br>
 [More details here](https://gxapplications.github.io/cv-career.html#cgi).
 
-- IT Services company Smile SA - 2005-2007 <br>
-> as **Junior Development engineer (3yrs)** (Web fullstack, PHP, CMS eZPublish) <br>
+- **Junior Development engineer (3yrs)** <br>
+> at Smile SA (IT Services company) - 2005-2007 <br>
+(Web fullstack, PHP, CMS eZPublish) <br>
 [More details here](https://gxapplications.github.io/cv-career.html#smile).
 
 ---
