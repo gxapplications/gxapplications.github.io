@@ -65,6 +65,11 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 > MVC model in PHP, MVW in Symfony, other recent models in JS <br>
 > Older project methodologies (Vee model, from Specifications to Testing) <br>
 
+- **Management, leading, consulting**: <br>
+> Developing trainer <br>
+> Small teams leader (about 2 to 5 developers) <br>
+> Technical and functional audits on existing projects <br>
+
 - **Former technical skills**: <br>
 > __PHP, Symfony v1&2, MySQL, Apache__ (during the major first part of my carrier) <br>
 > Java & __Android native__ (from version 0.5 to 4.0) <br>
@@ -72,7 +77,7 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 > AngularJS v1 (personal try) <br>
 > SOAP, DOM / SAX / XPath / SimpleXML parsers problematics <br>
 > Oracle, ODBC, LDAP <br>
-> SVN & CVS tools
+> SVN & CVS tools <br>
 
 ---
 ## Experiences
