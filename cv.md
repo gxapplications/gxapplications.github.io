@@ -22,7 +22,7 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 
 - Scientific secondary school diploma (French Bac S) - 2000 <br>
 
-[More details here](https://gxapplications.github.io/cv-degrees.html)
+[More details here](https://gxapplications.github.io/cv-degrees)
 
 ---
 ## Career
@@ -30,17 +30,17 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 - **Senior software developer and web architect (4yrs)** <br>
 > at PrestaShop (Startup) - 2014-now <br>
 (NodeJS, Web fullstack, backend, Cloud computing services) <br>
-[More details here](https://gxapplications.github.io/cv-career.html#prestashop).
+[More details here](https://gxapplications.github.io/cv-career#prestashop).
 
 - **Experimented software engineer (7yrs)** <br>
 > at Logica / CGI (IT Services company) - 2008-2014 <br>
 (Web fullstack, PHP, Android) <br>
-[More details here](https://gxapplications.github.io/cv-career.html#cgi).
+[More details here](https://gxapplications.github.io/cv-career#cgi).
 
 - **Junior Development engineer (3yrs)** <br>
 > at Smile SA (IT Services company) - 2005-2007 <br>
 (Web fullstack, PHP, CMS eZPublish) <br>
-[More details here](https://gxapplications.github.io/cv-career.html#smile).
+[More details here](https://gxapplications.github.io/cv-career#smile).
 
 ---
 ## Skills
@@ -55,9 +55,22 @@ TODO
 ---
 ## Personal achievements
 
-TODO
+TODO: in Android
+TODO: in Domotics
 
 ---
-## More on me
+## More on me, hobbies
 
-TODO
+- Domotics
+> See personal achievements above
+
+- Astronomy, space conquest & history
+> Mainly through documentaries (never went up there :)
+
+- Amateur photographer
+> Some samples [here](https://photos.app.goo.gl/Q3ch1SSz6QyUT2Xm9) and [here](https://photos.app.goo.gl/7YC6pucGGsd8ZYnZ7)...
+
+- Handyman
+> Electronic, domestic electricity, painter, builder, expert assembling Ikea...
+
+For more, you can Google me :)
