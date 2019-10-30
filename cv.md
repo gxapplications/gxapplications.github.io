@@ -47,26 +47,27 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 ## Skills
 
 - **Main & most recents**: <br>
-> NodeJS / Javascript (EcmaScript 5) (fulltime for the last 4yrs) <br>
-> What Fullstack development implies (HTML5, CSS3, LESS, SASS, VueJS, React, JQuery, Webpack) <br>
-> Works in Linux environement (Ubuntu, Mint, Debian) <br>
-> Git tools for versioning (Github & Bitbucket), NPM for publishing <br>
+> __NodeJS / Javascript__ (ES5) (fulltime for the last 4yrs) <br>
+> What __Fullstack development__ implies (HTML5, CSS3, LESS, SASS, VueJS, React, JQuery, Webpack, XML, JSON, ...) <br>
+> Working in Linux environements (Ubuntu, Mint, Debian) <br>
+> Git tools for versioning (Github & Bitbucket), NPM for publishing, Jest/Mocha/AVA for testing <br>
 > GoogleCloudPlatform for hosting, deployment, monitoring <br>
-> Jira, Stackdriver, Zendesk, Eventstore <br>
+> Travis, Eventstore, Stackdriver, Zendesk, Jenkins, Jira, ... <br>
 
 - **Technical concepts & project methodology**: <br>
 > Micro-services architectures in NodeJS <br>
 > Cloud computing architectures (beginner) <br>
-> Web services (HTTP API, Swagger, Restful) <br>
-> Event sourcing based systems <br>
-> Agile methodologies, Scrum <br>
-> UX / UI, Responsive design <br>
+> __Web services__ (HTTP API, Swagger, Restful) <br>
+> __Event sourcing__ based systems <br>
+> __Agile__ methodologies, Scrum mastering <br>
+> UX / UI, __Responsive design__ <br>
+> __Unit & integration testing__ and their automation <br>
 > MVC model in PHP, MVW in Symfony, other recent models in JS <br>
 > Older project methodologies (Vee model, from Specifications to Testing) <br>
 
 - **Former technical skills**: <br>
-> PHP, Symfony v1&2, MySQL, Apache (during the major first part of my carrier) <br>
-> Java & Android native (from version 0.5 to 4.0) <br>
+> __PHP, Symfony v1&2, MySQL, Apache__ (during the major first part of my carrier) <br>
+> Java & __Android native__ (from version 0.5 to 4.0) <br>
 > CMS & eZPublish 3.x until 4.0 (certification in 2008) <br>
 > AngularJS v1 (personal try) <br>
 > SOAP, DOM / SAX / XPath / SimpleXML parsers problematics <br>
