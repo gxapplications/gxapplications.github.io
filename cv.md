@@ -5,6 +5,7 @@
 > Man, 37 y/o, 14 years of experience, married, with children <br>
 > French Bac+5 - IT Engineer degree, computer science ([Telecom Nancy](https://telecomnancy.univ-lorraine.fr/)) <br>
 > Location: Marne-la-vallée, Work @ Paris 9e <br>
+> English level: technical english
 > contact me at [gxapplications@gmail.com](mailto:gxapplications@gmail.com)
 
 Actually working @ [PrestaShop](https://www.prestashop.com/en/about-us) as senior developer & junior architect.
@@ -45,7 +46,32 @@ Seeking a Senior position in Web/software engineering, from 76k€ to 90k€.
 ---
 ## Skills
 
-TODO: liste des compétences, certif eZ. + tags ? ou nuage ?
+- **Main & most recents**: <br>
+> NodeJS / Javascript (EcmaScript 5) (fulltime for the last 4yrs) <br>
+> What Fullstack development implies (HTML5, CSS3, LESS, SASS, VueJS, React, JQuery, Webpack) <br>
+> Works in Linux environement (Ubuntu, Mint, Debian) <br>
+> Git tools for versioning (Github & Bitbucket), NPM for publishing <br>
+> GoogleCloudPlatform for hosting, deployment, monitoring <br>
+> Jira, Stackdriver, Zendesk, Eventstore <br>
+
+- **Technical concepts & project methodology**: <br>
+> Micro-services architectures in NodeJS <br>
+> Cloud computing architectures (beginner) <br>
+> Web services (HTTP API, Swagger, Restful) <br>
+> Event sourcing based systems <br>
+> Agile methodologies, Scrum <br>
+> UX / UI, Responsive design <br>
+> MVC model in PHP, MVW in Symfony, other recent models in JS <br>
+> Older project methodologies (Vee model, from Specifications to Testing) <br>
+
+- **Former technical skills**: <br>
+> PHP, Symfony v1&2, MySQL, Apache (during the major first part of my carrier) <br>
+> Java & Android native (from version 0.5 to 4.0) <br>
+> CMS & eZPublish 3.x until 4.0 (certification in 2008) <br>
+> AngularJS v1 (personal try) <br>
+> SOAP, DOM / SAX / XPath / SimpleXML parsers problematics <br>
+> Oracle, ODBC, LDAP <br>
+> SVN & CVS tools
 
 ---
 ## Experiences
