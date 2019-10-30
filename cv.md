@@ -96,7 +96,7 @@ TODO: in Domotics
 - Domotics
 > See personal achievements above
 
-- Astronomy, space conquest & history
+- Science addict (Astronomy, Space conquest, Nature, Technology)
 > Mainly through documentaries (never went up there :)
 
 - Amateur photographer
