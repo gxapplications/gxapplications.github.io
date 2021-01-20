@@ -1,6 +1,38 @@
 remote_theme: y7kim/agency-jekyll-theme
 
+url: https://gxapplications.github.io
+baseurl: /
+
+# Site settings
 title: GXApplications
 email: gxapplications@gmail.com
-description: Web technologies - Domotics labs
+description: "Web technologies - Domotics labs"
 
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
