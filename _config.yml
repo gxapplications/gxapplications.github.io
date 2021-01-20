@@ -1,12 +1,10 @@
-remote_theme: y7kim/agency-jekyll-theme
-
 url: https://gxapplications.github.io
-baseurl:
+baseurl: /
 
 # Site settings
-title: GXApplications
+title: GX Applications
 email: gxapplications@gmail.com
-description: "Web technologies - Domotics labs"
+description: "My description."
 
 # Team names, titles and social links
 people:
