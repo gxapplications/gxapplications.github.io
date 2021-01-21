@@ -267,7 +267,8 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #00897b;
+    color: #fff;
+    background-color: #00897b;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/asterism.png');
     background-position: center center;
