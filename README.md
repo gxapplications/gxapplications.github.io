@@ -30,11 +30,11 @@ Coming soon (or later): EDF téléinformation plugin? IFTTT plugin? Google Assis
 # Other
 
 > [![asterism-logo](https://raw.githubusercontent.com/gxapplications/gxapplications.github.io/master/assets/images/cv.png)](https://gxapplications.github.io/cv.html)
-> ## [Curriculum vitae - Xavier GOULEY](https://gxapplications.github.io/cv.html)
+> ## [Curriculum vitae - Xavier GOULEY](https://gxapplications.github.io/gxapplications/)
 > Web software engineering, NodeJS lead developer & junior architect. <br>
 > Paris area, France
 
 
 ```
-Last update: {{ site.time | date: '%Y-%m-%d' }} ~ (c) 2017-2019 GXApplications.
+Last update: {{ site.time | date: '%Y-%m-%d' }} ~ (c) 2017-2021 GXApplications.
 ```
