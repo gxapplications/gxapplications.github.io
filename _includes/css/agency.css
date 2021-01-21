@@ -285,6 +285,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
+    margin-left: 3em;
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 32px;
@@ -295,7 +296,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
     font-weight: 600;
@@ -309,6 +310,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
+        margin-left: 3em;
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 58px;
@@ -319,7 +321,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        text-transform: lowercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
         font-weight: 600;
