@@ -6,17 +6,6 @@ title: Asterism
 email: gxapplications@gmail.com
 description: "Domotics oriented standalone software. Made in NodeJS & Material interface. NOT cloud based. Built for PM2."
 
-# Team names, titles and social links
-people:
-- name: Xavier Gouley
-  pic: 1
-  position: Web software engineering
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/xaviergouley/
-    - title: github
-      url: https://github.com/gxapplications
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
