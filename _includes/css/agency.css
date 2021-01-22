@@ -298,9 +298,9 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: lowercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
-    line-height: 20px;
+    line-height: 18px;
 }
 
 @media(min-width:768px) {
@@ -322,9 +322,9 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: lowercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 34px;
+        font-size: 30px;
         font-weight: 600;
-        line-height: 34px;
+        line-height: 30px;
     }
 }
 
