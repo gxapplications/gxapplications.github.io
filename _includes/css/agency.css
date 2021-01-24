@@ -272,18 +272,17 @@ header {
     background-color: #00897b;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/asterism_bg.png');
-    background-position: center center;
+    background-position: bottom;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
-    background-color: #00897b;
+    padding-top: 90px;
+    padding-bottom: 90px;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/asterism.png');
     background-position: center center;
@@ -314,8 +313,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 200px;
+        padding-bottom: 350px;
     }
 
     header .intro-text .intro-lead-in {
