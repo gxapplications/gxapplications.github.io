@@ -511,6 +511,7 @@ section h3.section-subheading {
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    text-decoration: none;
 }
 
 .timeline>li .timeline-image h4 {
