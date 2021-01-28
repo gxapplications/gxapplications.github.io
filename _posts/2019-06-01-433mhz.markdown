@@ -1,0 +1,16 @@
+---
+title: 433MHz plugin
+subtitle: Add a support for one-way radio connected objects on asterism
+layout: default
+modal-id: 2
+date: 2019-06-01
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: 433MHz protocole
+project-date: June 2019
+git: https://github.com/gxapplications/asterism-plugin-ftt
+npm: https://www.npmjs.com/package/asterism-plugin-ftt
+category: Domotics
+description: Populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

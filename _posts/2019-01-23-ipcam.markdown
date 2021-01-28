@@ -1,0 +1,16 @@
+---
+title: IP Camera plugin
+subtitle: Add a support for IP cams on asterism
+layout: default
+modal-id: 3
+date: 2019-01-23
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: IP Cam
+project-date: June 2019
+git: https://github.com/gxapplications/asterism-plugin-ipcam
+npm: https://www.npmjs.com/package/asterism-plugin-ipcam
+category: Monitoring
+description: Populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

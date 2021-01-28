@@ -1,0 +1,16 @@
+---
+title: Teleinfo plugin
+subtitle: Add a support for french teleinfo protocole (ErDF) on asterism
+layout: default
+modal-id: 4
+date: 2020-06-22
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: teleinfo protocole
+project-date: June 2020
+git: https://github.com/gxapplications/asterism-plugin-teleinfo
+npm: https://www.npmjs.com/package/asterism-plugin-teleinfo
+category: Monitoring
+description: Populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
